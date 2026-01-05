@@ -16,7 +16,8 @@ The project demonstrates solid game logic, correct chess rule implementation, an
 
 ## Run
 ```bash
-python gui_chess.py```
+python gui_chess.py
+```
 
 ## About
 This project was built as a personal portfolio project to practice Python development, problem-solving, and structured code design.
